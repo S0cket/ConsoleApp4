@@ -34,7 +34,7 @@ namespace ConsoleApp4 {
 			for (int i = 0; i < b.Count; ++i)
 				Console.Write($"{b[i]} ");
 			Console.WriteLine();
-
+			////
 		}
 
 		
